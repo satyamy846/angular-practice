@@ -1,0 +1,11 @@
+.todo__item{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    
+}
+input[type="checkbox"]{
+    cursor: pointer;
+    width: 1.2rem;
+    height: 1.2rem;
+}
